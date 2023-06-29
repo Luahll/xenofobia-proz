@@ -28,6 +28,10 @@ body {
     background-color: var(--color-primary);
 }
 
+.traducao {
+    padding: 15px;
+}
+
 header nav {
     background-color: var(--color-tertiary);
     overflow: hidden;
