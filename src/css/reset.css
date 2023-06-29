@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', 'Noto Sans','Noto Serif', sans-serif, serif;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+:root {
+    --color-primary: #EEE2DE;
+    --color-secundary: #EA906C;
+    --color-tertiary: #B31312;
+    --color-quartenary: #2B2A4C;
+}
