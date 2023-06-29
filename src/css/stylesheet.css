@@ -92,3 +92,10 @@ nav ul li {
 .secao-video h1 {
     margin-bottom: -50px;
 }
+
+.ir-topo {
+    position: fixed;
+    width: 35px;
+    right: 110px;
+    bottom: 65px;    
+}
